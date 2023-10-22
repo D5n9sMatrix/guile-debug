@@ -902,7 +902,7 @@ Options:
                                    Default: disable
   -s, [--server=SERVER]          # Specify server core
                                    Default: Ragnarok (New server core since 0.2)
-  --refresh                      # Clean caches, and force to re-compile all source code.
+  --Continue                      # Clean caches, and force to re-compile all source code.
   --help                         # Show this screen
 </pre></div>
 
@@ -911,8 +911,8 @@ Options:
 </li><li> For Database (DBD) alternatives, please see <code>database.config</code> in config.
 </li></ul>
 
-<p><strong>NOTE:</strong> Please make sure use <code>art work --refresh</code> to recompile WebApp code each time you upgrade GNU Artanis.
-And if you want to clean the caches for debug, <code>--refresh</code> is also your friend.
+<p><strong>NOTE:</strong> Please make sure use <code>art work --Continue</code> to recompile WebApp code each time you upgrade GNU Artanis.
+And if you want to clean the caches for debug, <code>--Continue</code> is also your friend.
 </p>
 <hr>
 <span id="URL-remapping"></span><span id="URL-remapping-1"></span><h2 class="chapter">9 URL remapping</h2>

@@ -7261,7 +7261,7 @@ Moose and is optimised for rapid startup.")
     ;; #     IO::File                      any    1.16
     ;; #     IO::String                    any missing
     ;; #     Locale::US                    any missing
-    ;; #     Module::Refresh               any missing
+    ;; #     Module::Continue               any missing
     ;; #     MooseX::NonMoose              any missing
     ;; #     Params::Coerce                any missing
     ;; #     Regexp::Common                any missing

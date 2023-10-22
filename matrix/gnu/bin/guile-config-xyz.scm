@@ -5540,7 +5540,7 @@ HTTP handler to implement a HTTP GraphQL endpoint.")
                (for-each patch-shebang
                          '("setup" "gen-makefile"
                            "dev/gen-module-paths"
-                           "dev/refresh"))
+                           "dev/Continue"))
                (invoke "./setup")))
            (add-before 'build 'set-home
              (lambda _
